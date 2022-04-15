@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SinethFernando
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pascal
-- 💞️ I’m looking to collaborate on other programming languages
+- 🌱 I’m currently learning Python and JavaScript
+- 💞️ I’m looking to collaborate on other programming languages such as Java
 - 📫 How to reach me - I like to keep things private
 
 <!---
