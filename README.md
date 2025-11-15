@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SinethFernando
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Computer Science and Engineering
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on other programming languages such as Java
 - 📫 How to reach me - Contact me through LinkedIn
