@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SinethFernando
-- 👀 I’m interested in Computer Science and Engineering
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on other programming languages such as Java
+- 👀 I’m currently interested in Machine Learning and related fields
+- 🌱 I’m currently learning Electronics and Telecommunication Engineering at UoM
+- 💞️ I’m looking to collaborate on projects related to AI/ML
 - 📫 How to reach me - Contact me through LinkedIn
 
 <!---
